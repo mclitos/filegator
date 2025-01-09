@@ -6,7 +6,7 @@ hacerce Root:
 sudo su
 ```
 ```
-git clone https://github.com/mclitod/filegator
+git clone https://github.com/mclitos/filegator
 ```
 
 ```
